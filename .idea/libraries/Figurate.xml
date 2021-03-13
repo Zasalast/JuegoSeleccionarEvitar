@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Figurate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Figurate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
